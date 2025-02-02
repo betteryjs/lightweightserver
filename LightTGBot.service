@@ -1,0 +1,11 @@
+[Unit]
+Description=LightTGBot Service
+After=multi-user.target
+
+[Service]
+Type=idle
+WorkingDirectory=/root/lightweightserver/
+ExecStart=/root/lightweightserver/.venv/bin/python3 /root/lightweightserver/LightTGBot.py
+
+[Install]
+WantedBy=multi-user.target

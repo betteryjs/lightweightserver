@@ -1,0 +1,20 @@
+{
+  "BaseConfig": {
+    "TGBotAPI": "xxxxx",
+    "chartId": "xxxx",
+    "authorized_users": [
+      "example"
+    ]
+  },
+  "LightConfig": [
+    {
+      "AccessKeyId": "xxxxx",
+      "AccessKeySecret": "xxxx",
+      "InstanceId": "xxxxxx",
+      "region_id": "cn-hongkong",
+      "DefaultPassword":"xxxxxx",
+      "name": "Light-HK-200M",
+      "SnapshotCrons": "0 3 * * *"
+    }
+  ]
+}

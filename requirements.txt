@@ -1,0 +1,6 @@
+aliyun-python-sdk-core
+aliyun-python-sdk-swas-open==1.0.10
+loguru
+pyTelegramBotAPI
+schedule
+croniter
