@@ -41,6 +41,16 @@ cd lightweightserver
       "DefaultPassword":"password",  # 填入要重置系统的密码
       "name": "Light-HK-200M",     # 填入独一无二的name 
       "SnapshotCrons": "0 3 * * *"  # 填入自动快照策略的创建时间 默认每天凌晨3点 功能还在测试 可以不开启
+    },
+    # 有第二个机器添加第二个机器
+    {
+      "AccessKeyId": "xxxxx",
+      "AccessKeySecret": "xxxx",
+      "InstanceId": "xxxxxx",
+      "region_id": "cn-hongkong",
+      "DefaultPassword":"xxxxxx",
+      "name": "Light2-HK-200M",
+      "SnapshotCrons": "0 3 * * *"
     }
   ]
 }
@@ -58,3 +68,27 @@ cd lightweightserver
 - 在机器上使用 /menu 开启面板
 
 
+
+# 目前实现功能
+- 开启机器
+> 开启服务器
+- 关闭机器 
+> 关闭服务器
+- 重启机器 
+> 重启服务器
+
+- 重置系统
+> 默认装debian11 然后通过面板的 获得SSH登陆URL 登陆就行
+如果链接打不开需要手动复制链接到浏览器打开
+- 更改密码 
+- 获得SSH登陆URL 
+- 获得VNC登陆URL 
+- 开启自动快照 
+- 关闭自动快照 
+- 自动快照策略状态 
+- 查看使用流量 
+- 手动快照
+- 删除快照
+- 开启所有流量入
+- 屏蔽所有流量入
+- 回滚快照

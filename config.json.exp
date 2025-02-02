@@ -13,7 +13,16 @@
       "InstanceId": "xxxxxx",
       "region_id": "cn-hongkong",
       "DefaultPassword":"xxxxxx",
-      "name": "Light-HK-200M",
+      "name": "Light1-HK-200M",
+      "SnapshotCrons": "0 3 * * *"
+    },
+    {
+      "AccessKeyId": "xxxxx",
+      "AccessKeySecret": "xxxx",
+      "InstanceId": "xxxxxx",
+      "region_id": "cn-hongkong",
+      "DefaultPassword":"xxxxxx",
+      "name": "Light2-HK-200M",
       "SnapshotCrons": "0 3 * * *"
     }
   ]

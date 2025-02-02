@@ -68,7 +68,7 @@ def generate_secondary_menu_markup(server_name):
         {"text": "获得VNC登陆URL", "callback_data": f'button{server_name}_7_{server_name}'},
         {"text": "开启自动快照", "callback_data": f'button{server_name}_8_{server_name}'},
         {"text": "关闭自动快照", "callback_data": f'button{server_name}_9_{server_name}'},
-        {"text": "自动快照策略", "callback_data": f'button{server_name}_10_{server_name}'},
+        {"text": "自动快照策略状态", "callback_data": f'button{server_name}_10_{server_name}'},
         {"text": "查看使用流量", "callback_data": f'button{server_name}_11_{server_name}'},
         {"text": "手动快照", "callback_data": f'button{server_name}_12_{server_name}'},
         {"text": "删除快照", "callback_data": f'button{server_name}_13_{server_name}'},
