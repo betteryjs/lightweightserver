@@ -1,7 +1,7 @@
 # 赞助
 <div style="text-align: center;">
     <a href="https://yxvm.com/">
-        <img src="https://raw.githubusercontent.com/betteryjs/lightweightserver/refs/heads/master/images/logo.webp" width="170.7" height="62.9">
+        <img src="https://raw.githubusercontent.com/betteryjs/lightweightserver/refs/heads/master/images/logo.webp" >
     </a>
 </div>
 
@@ -20,7 +20,7 @@
 git clone  git@github.com:betteryjs/lightweightserver.git
 cd lightweightserver
 ```
-- 复制 `config.json.exp`到 `config.json` 填入配置信息
+- 复制 `config.json.exp`到 `config.json` 并填入配置信息
 
 ```shell
 
