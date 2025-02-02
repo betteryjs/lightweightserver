@@ -17,7 +17,7 @@
 # 安装部署
 - 克隆项目
 ```shell
-git clone  git@github.com:betteryjs/lightweightserver.git
+git clone git@github.com:betteryjs/lightweightserver.git
 cd lightweightserver
 ```
 - 复制 `config.json.exp`到 `config.json` 并填入配置信息
