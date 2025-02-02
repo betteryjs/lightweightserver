@@ -55,4 +55,6 @@ cd lightweightserver
 
 ./restart.sh
 ```
+- 在机器上使用 /menu 开启面板
+
 
