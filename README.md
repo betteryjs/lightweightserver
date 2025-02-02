@@ -69,6 +69,16 @@ cd lightweightserver
 
 
 
+## 卸载项目
+
+```shell
+systemctl disable LightTGBot.service
+systemctl stop LightTGBot.service
+rm -rf /lib/systemd/system/LightTGBot.service
+rm -rf /root/lightweightserver
+```
+
+
 # 目前实现功能
 - 开启机器
 > 开启服务器
