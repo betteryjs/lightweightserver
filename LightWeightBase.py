@@ -531,18 +531,17 @@ class Light:
         logger.success("DeleteFirewallTemplates success!")
 
 
-if __name__ == '__main__':
-    with open("config.json", 'r') as file:
-        configJson = json.loads(file.read())
-    for LightConfig in configJson['LightConfig']:
-        print(LightConfig)
-        light = Light(LightConfig)
-        # print(light.GetBandwidth())
-        # light.CreateFirewallTemplateRules()
-        # light.DeleteFirewallTemplateRules()
-        # light.FirewallRuleId()
-        # print(light.FirewallRuleId())
-        #
-        # light.DeleteFirewallRules()
-        # light.DeleteFirewallTemplates()
-        light.ResetDisk("YJS")
+# if __name__ == '__main__':
+#     with open("config.json", 'r') as file:
+#         configJson = json.loads(file.read())
+#     for LightConfig in configJson['LightConfig']:
+#         print(LightConfig)
+#         light = Light(LightConfig)
+#         # print(light.GetBandwidth())
+#         # light.CreateFirewallTemplateRules()
+#         # light.DeleteFirewallTemplateRules()
+#         # light.FirewallRuleId()
+#         # print(light.FirewallRuleId())
+#         #
+#         # light.DeleteFirewallRules()
+#         # light.DeleteFirewallTemplates()
