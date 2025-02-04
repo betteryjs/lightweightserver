@@ -78,8 +78,8 @@ rm -rf /lib/systemd/system/LightTGBot.service
 rm -rf /root/lightweightserver
 ```
 ## 部署完成
-[/menu命令](./images/1.png)
-[菜单内容](./images/2.png)
+![/menu命令](./images/1.png)
+![菜单内容](./images/2.png)
 
 
 # 目前实现功能
