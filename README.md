@@ -1,9 +1,10 @@
 # 赞助
+
 <div style="text-align: center;">
     <a href="https://yxvm.com/">
-        <img src="https://raw.githubusercontent.com/betteryjs/lightweightserver/refs/heads/master/images/logo.webp" >
+        <img src="https://raw.githubusercontent.com/betteryjs/EcsAutoChangeIPShare/refs/heads/master/images/logo.webp" width="170.7" height="62.9">
     </a>
-<a href="https://www.zovps.com/aff/VWSIBCGP">
+    <a href="https://www.zovps.com/aff/VWSIBCGP">
         <img src="https://raw.githubusercontent.com/betteryjs/EcsAutoChangeIPShare/refs/heads/master/images/img.png" width="170.7" height="62.9">
     </a>
 </div>
