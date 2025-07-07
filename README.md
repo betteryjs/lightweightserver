@@ -1,21 +1,21 @@
 # 赞助信息
 
-<div style="text-align: center;">
+<div >
     <a href="https://app.vmiss.com/aff.php?aff=2866">
         <img src="https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg" width="170.7" height="62.9">
     </a>
  <a href="https://yxvm.com/aff.php?aff=840">
         <img src="https://raw.githubusercontent.com/betteryjs/EcsAutoChangeIPShare/refs/heads/master/images/logo.webp" width="170.7" height="62.9">
     </a>
- <a href="https://netjett.com/aff.php?aff=183">
-        <img src="https://netjett.com//img/logo/logo%20(6).png" width="170.7" height="62.9">
-    </a>
+<a href="https://netjett.com/aff.php?aff=183">
+    <img src="./images/logo.png" width="170.7"  height="auto" 
+         style="display: block; max-height: 62.9px;" >
+</a>
 
 </div>
 
 
-我们非常感谢[Vmiss]https://app.vmiss.com/aff.php?aff=2866)  [netjett](https://netjett.com/aff.php?aff=183) [Yxvm](https://yxvm.com/aff.php?aff=840)提供了支持本项目所需的网络基础设施。
-
+我们非常感谢[Vmiss](https://app.vmiss.com/aff.php?aff=2866)  [netjett](https://netjett.com/aff.php?aff=183) [Yxvm](https://yxvm.com/aff.php?aff=840)提供了支持本项目所需的网络基础设施。
 
 # 前言
 
